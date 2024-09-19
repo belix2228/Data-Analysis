@@ -15,5 +15,6 @@ Utilize Excel's analytical tools to generate insights and visualize trends in ac
 5.Ultimately, the goal is to reduce the number of road accidents and enhance the safety of all road users.
 
 ## Dashboard
-<a href="https://github.com/belix2228/Data-Analysis/blob/main/Road%20Accident%20dashboard%20img1.png">Dashboard</a>
+![Road Accident dashboard img1](https://github.com/user-attachments/assets/a5a7ce31-5ee1-486d-8e00-d89c65984fd2)
+
 
