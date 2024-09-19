@@ -1,2 +1,6 @@
-# Data-Analysis
-The Road Accident Excel Dashboard is a comprehensive analytical tool designed to visualize and track key metrics related to road accidents. It serves as a centralized platform for decision-makers to quickly assess the state of road safety in a specific area or over a designated time period.
+
+#Project Objectives:
+Data Management: Create a structured Excel database to efficiently record and organize key information about road accidents, including date, location, causes, and outcomes.
+
+Analysis and Reporting: Utilize Excel's analytical tools to generate insights and visualize trends in accident data, facilitating informed decision-making and identifying critical areas for intervention.
+
